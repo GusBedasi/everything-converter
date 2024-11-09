@@ -1,0 +1,16 @@
+ID,Produto,Preco,Quantidade,Total,Data,Vendedor,Loja,Cidade,Pagamento
+1,Notebook Dell,3999.90,1,3999.90,2024-01-01,João,Loja Centro,São Paulo,Crédito
+2,Mouse Gamer,199.90,2,399.80,2024-01-01,Maria,Shopping ABC,São Paulo,Débito
+3,Teclado RGB,299.90,1,299.90,2024-01-01,Pedro,Centro,Rio de Janeiro,PIX
+4,Monitor 24,899.90,2,1799.80,2024-01-02,Ana,Shopping XYZ,Curitiba,Boleto
+5,Headset,399.90,3,1199.70,2024-01-02,João,Loja Centro,São Paulo,PIX
+6,Webcam HD,259.90,1,259.90,2024-01-02,Maria,Shopping ABC,São Paulo,Crédito
+7,SSD 500GB,449.90,2,899.80,2024-01-03,Carlos,Centro,Rio de Janeiro,Débito
+8,Memória RAM,349.90,4,1399.60,2024-01-03,Ana,Shopping XYZ,Curitiba,PIX
+9,Mousepad,59.90,5,299.50,2024-01-03,Pedro,Centro,Rio de Janeiro,Crédito
+10,Gabinete Gamer,599.90,1,599.90,2024-01-03,João,Loja Centro,São Paulo,Boleto
+11,Fonte 600W,399.90,2,799.80,2024-01-04,Maria,Shopping ABC,São Paulo,PIX
+12,Placa de Vídeo,1999.90,1,1999.90,2024-01-04,Carlos,Centro,Rio de Janeiro,Crédito
+13,Processador,1299.90,1,1299.90,2024-01-04,Ana,Shopping XYZ,Curitiba,Débito
+14,Cooler CPU,89.90,3,269.70,2024-01-04,Pedro,Centro,Rio de Janeiro,PIX
+15,HD 1TB,399.90,2,799.80,2024-01-05,João,Loja Centro,São Paulo,Crédito
